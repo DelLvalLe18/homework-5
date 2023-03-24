@@ -39,10 +39,29 @@ th{
     background-color: #eb3c43;
     color: #ffffff;
 }
-.four {
+.fourth {
     background-color: #07b8c8;
     color: #ffffff;
 
+}
+.secondchild{
+    color: #ff9a00;
+    font-size: 25px;
+    font-weight: bold;
+}
+.thirdchild{
+    color: #eb3c43;
+    font-size: 25px;
+    font-weight: bold;
+}
+.fourthchild{
+    color: #07b8c8;
+    font-size: 25px;
+    font-weight: bold;
+}
+.checkmark{
+    color: #ff9a00;
+    font-size: 25px;
 }
 #first {
    width: 35%;
